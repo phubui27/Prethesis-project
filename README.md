@@ -20,11 +20,14 @@ Workflow: **Data preprocessing → Model training → Evaluation (R², RMSE, MAE
 
 ## 📂 Project Structure
 Prethesis/
-├── Load_data.ipynb # Full workflow: data, training, evaluation, comparison
+│
+├── Load_data.ipynb # Full workflow: data loading, training, evaluation, comparison
+│
 ├── results/ # Saved evaluation metrics
+│
 ├── figures/ # Visualization outputs
+│
 └── README.md # Project documentation
-
 
 Reference
 
