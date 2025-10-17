@@ -20,18 +20,21 @@ Workflow: **Data preprocessing → Model training → Evaluation (R², RMSE, MAE
 
 ## 📂 Project Structure
 Prethesis/
-├── Load_data.ipynb # Data loading & preprocessing
-├── Train_models.ipynb # Training GLR, Decision Tree, Random Forest
+├── Load_data.ipynb # Full workflow: data, training, evaluation, comparison
 ├── results/ # Saved evaluation metrics
 ├── figures/ # Visualization outputs
 └── README.md # Project documentation
+
+
 Reference
 
 Lou, Y., & Colvin, K. F. (2025). Predicting Student Academic Performance Using Machine Learning Techniques.
 Springer Nature. https://doi.org/10.1007/s44217-025-00502-w
 
-✍️ Author
+@ Author
 
 Phu Bui
+
 Pre-Thesis Project, 2025
+
 Ongoing experiments and updates will be committed to this repository.
