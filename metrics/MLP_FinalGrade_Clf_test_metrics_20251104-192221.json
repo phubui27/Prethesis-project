@@ -1,0 +1,22 @@
+{
+  "model": "MLPClassifier",
+  "target": "FinalGrade",
+  "params": {
+    "hidden_layer_sizes": [
+      100,
+      50
+    ],
+    "max_iter": 500,
+    "random_state": 42,
+    "early_stopping": true
+  },
+  "test": {
+    "Accuracy": 0.44751249702451795,
+    "Precision": 0.4476964589511182,
+    "Recall": 0.44751249702451795,
+    "F1-Score": 0.4438986603959519
+  },
+  "n_train": 9802,
+  "n_test": 4201,
+  "timestamp": "20251104-192221"
+}

@@ -1,0 +1,19 @@
+{
+  "model": "DecisionTreeRegressor",
+  "target": "ExamScore",
+  "params": {
+    "max_depth": 4,
+    "min_samples_split": 10,
+    "min_samples_leaf": 5,
+    "random_state": 42
+  },
+  "test": {
+    "R-squared": 0.012118864959611786,
+    "RMSE": 17.657470229290876,
+    "MAE": 15.323410660453844,
+    "MSE": 311.78625489829363
+  },
+  "n_train": 9802,
+  "n_test": 4201,
+  "timestamp": "20251104-192850"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "LinearRegression",
+  "target": "ExamScore",
+  "params": {},
+  "test": {
+    "R-squared": 0.0020462452551730514,
+    "RMSE": 17.747261352549874,
+    "MAE": 15.418871825910799,
+    "MSE": 314.9652855157103
+  },
+  "training_time_seconds": 0.04122734069824219,
+  "n_train": 9802,
+  "n_test": 4201,
+  "timestamp": "20251104-192221"
+}

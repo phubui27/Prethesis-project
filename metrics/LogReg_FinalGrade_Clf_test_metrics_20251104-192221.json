@@ -1,0 +1,17 @@
+{
+  "model": "LogisticRegression",
+  "target": "FinalGrade",
+  "params": {
+    "max_iter": 1000,
+    "random_state": 42
+  },
+  "test": {
+    "Accuracy": 0.28993096881694835,
+    "Precision": 0.2866923101477225,
+    "Recall": 0.28993096881694835,
+    "F1-Score": 0.2604009042803617
+  },
+  "n_train": 9802,
+  "n_test": 4201,
+  "timestamp": "20251104-192221"
+}

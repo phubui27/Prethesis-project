@@ -1,0 +1,18 @@
+{
+  "model": "SVC",
+  "target": "FinalGrade",
+  "params": {
+    "kernel": "rbf",
+    "random_state": 42,
+    "gamma": "scale"
+  },
+  "test": {
+    "Accuracy": 0.3758628897881457,
+    "Precision": 0.3783743338218329,
+    "Recall": 0.3758628897881457,
+    "F1-Score": 0.37270477252635414
+  },
+  "n_train": 9802,
+  "n_test": 4201,
+  "timestamp": "20251104-192221"
+}
