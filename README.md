@@ -1,4 +1,4 @@
-# Pre-Thesis: Predicting Student Academic Performance Using Machine Learning
+# Pre-Thesis: Predicting Student Academic Performance Using Data Mining Approaches
 
 This repository implements and extends the experiments from the Springer paper  
 **"Predicting Student Academic Performance Using Machine Learning Techniques" (2025)**.  
@@ -14,18 +14,10 @@ The goal is to reproduce, compare, and improve model performance on educational 
 | **Decision Tree** | Interpretable non-linear model | Explore rule-based predictions |
 | **Random Forest** | Ensemble method | Achieve higher predictive accuracy |
 
-Workflow: **Data preprocessing → Model training → Evaluation (R², RMSE, MAE, MSE) → Comparison with paper results**
+Workflow: **Data preprocessing → Model training → Evaluation -> Classification (R², RMSE, MAE, MSE) → Comparison with paper results**
 
 ---
 
-## 📂 Project Structure
-
-| File/Folder | Description |
-|:-------------|:-------------|
-| `Load_data.ipynb` | Full workflow: data loading, training, evaluation, comparison |
-| `results/` | Saved evaluation metrics |
-| `figures/` | Visualization outputs |
-| `README.md` | Project documentation |
 
 
 
